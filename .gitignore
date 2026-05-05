@@ -1,0 +1,21 @@
+# Data files (too large for GitHub; download from Kaggle)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter internals
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
