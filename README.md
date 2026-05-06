@@ -88,13 +88,13 @@ No proprietary libraries. Reproducible with a fixed random seed (42) throughout.
 
 I am a final-year Law student at Kırıkkale University (graduating June 2026), concurrently studying Economics at Anadolu University.
 
-Basel Institute on Governance certifications: Operational Analysis of Suspicious Transaction Reports; International Cooperation in Financial Matters. ACAMS certification in Wildlife Trade Finance.
+Basel Institute on Governance certifications: Operational Analysis of Suspicious Transaction Reports; International Cooperation in Financial Matters. ACAMS Ending Illegal Wildlife Trade, Comprehensive Overview (in partnership with WWF, Royal Foundation, United for Wildlife, and Basel Institute on Governance), 2 ACAMS credits.
 
 Previously conducted an independent OSINT investigation on Troika Securities Limited (BVI-registered entity from the ICIJ Panama Papers) using Basel STR format. Also built SCOS, a RegTech compliance workflow tool for German SMEs.
 
 Looking for junior roles in AML analysis, financial crime investigation, or fraud operations at fintech and crypto compliance firms.
 
-LinkedIn: https://www.linkedin.com/in/ya%C4%9F%C4%B1z-ege-demirel-617688198/
+LinkedIn: (https://www.linkedin.com/in/yagizegedemirel/)
 
 ## License
 
